@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nomeroavto/static/css/main.62a684ee.css",
+    "main.css": "/nomeroavto/static/css/main.0e75c84e.css",
     "main.js": "/nomeroavto/static/js/main.5f209174.js",
     "static/js/453.8566eefc.chunk.js": "/nomeroavto/static/js/453.8566eefc.chunk.js",
     "static/media/LogoProgramm.png": "/nomeroavto/static/media/LogoProgramm.e374e4a95d4eea708d4d.png",
     "static/media/CascadiaMono-ExtraLight.otf": "/nomeroavto/static/media/CascadiaMono-ExtraLight.9e0a26b8071578d10c86.otf",
     "index.html": "/nomeroavto/index.html",
-    "main.62a684ee.css.map": "/nomeroavto/static/css/main.62a684ee.css.map",
+    "main.0e75c84e.css.map": "/nomeroavto/static/css/main.0e75c84e.css.map",
     "main.5f209174.js.map": "/nomeroavto/static/js/main.5f209174.js.map",
     "453.8566eefc.chunk.js.map": "/nomeroavto/static/js/453.8566eefc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62a684ee.css",
+    "static/css/main.0e75c84e.css",
     "static/js/main.5f209174.js"
   ]
 }
